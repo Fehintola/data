@@ -1,13 +1,13 @@
-# data
-public data sets relevant to the dudley street neighborhood initiative
+# Data
+Public data sets relevant to the dudley street neighborhood initiative
 
-adapted from kathy pettit's [table](http://www.neighborhoodindicators.org/library/catalog/list-national-data-sets-small-area-data) of national data sets with small-area data via national neighborhood indicators partnership
+Adapted from kathy pettit's [table](http://www.neighborhoodindicators.org/library/catalog/list-national-data-sets-small-area-data) of national data sets with small-area data via national neighborhood indicators partnership
 
-file structure as follows
+File structure as follows
 
 #### Asset
 
-data sets related to asset infrastructure and asset building
+Data sets related to asset infrastructure and asset building
 
 * [fdic](http://www2.fdic.gov/sod) fdic-insured summary of deposit activity
 
@@ -22,7 +22,7 @@ data sets related to asset infrastructure and asset building
 
 #### Census
 	
-data sets from the u.s. census
+Data sets from the u.s. census
 
 * [acs](http://www.census.gov/acs/www) american community survey
 
@@ -34,7 +34,7 @@ data sets from the u.s. census
 
 #### Envt
 	
-data about the physical and ecological environment
+Data about the physical and ecological environment
 
 * [berk](http://berkeleyearth.org/data) berkeley earth	
 
@@ -48,7 +48,7 @@ data about the physical and ecological environment
 
 #### Home 
 
-data about households and home ownership
+Data about households and home ownership
 
 * [afford](http://www.locationaffordability.info/) location affordability index
 
@@ -72,7 +72,7 @@ data about households and home ownership
 
 #### Work
 	
-data about work, labor, and employment
+Data about work, labor, and employment
 
 * [biz](http://www.census.gov/epcd/www/zbp_base.html) zip business patterns
 
